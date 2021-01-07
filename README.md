@@ -1,2 +1,2 @@
 # hello-world
-About the project.
+Hi there it's ClinSwift.
