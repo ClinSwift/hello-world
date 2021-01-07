@@ -1,2 +1,2 @@
 # hello-world
-Introductory github project
+Hi there it's ClinSwift.
